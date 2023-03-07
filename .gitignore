@@ -1,0 +1,4 @@
+*.swp
+.env*
+docker-compose.override.yml
+.idea
